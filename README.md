@@ -86,20 +86,7 @@
 
 <br/>  
 
-#👨🏻‍🎓   Education
-B.Sc. in Computer Science & Engineering
-Green University of Bangladesh
-Dhaka, Bangladesh.
-  
 
-<br/>  
-
-#Sports / Game / Activities / Hobby:
--🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
--🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
--✈️ Travelling
-
-<br/>
 
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
@@ -109,7 +96,23 @@ Dhaka, Bangladesh.
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>  
+  <div >
+    
+## 👨🏻‍🎓   Education
+B.Sc. in Computer Science & Engineering
+Green University of Bangladesh
+Dhaka, Bangladesh.
   
+
+<br/>  
+
+## Sports / Game / Activities / Hobby:
+-🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+-🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+-✈️ Travelling
+
+<br/>
+  </div>
 
 <br/>  
 
