@@ -86,10 +86,21 @@
 
 <br/>  
 
-
+#👨🏻‍🎓   Education
+B.Sc. in Computer Science & Engineering
+Green University of Bangladesh
+Dhaka, Bangladesh.
   
 
 <br/>  
+
+#Sports / Game / Activities / Hobby:
+-🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+-🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+-✈️ Travelling
+
+<br/>
+
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
