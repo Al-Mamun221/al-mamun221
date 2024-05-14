@@ -99,16 +99,16 @@
   <div >
     
 ## 👨🏻‍🎓   Education
-B.Sc. in Computer Science & Engineering
-Green University of Bangladesh
+B.Sc. in Computer Science & Engineering <br/>  
+Green University of Bangladesh <br/>  
 Dhaka, Bangladesh.
   
 
 <br/>  
 
 ## Sports / Game / Activities / Hobby:
--🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
--🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+-🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball <br/>  
+-🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking <br/>  
 -✈️ Travelling
 
 <br/>
